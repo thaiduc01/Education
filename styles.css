@@ -51,12 +51,6 @@ nav .container .logo{
     margin: auto;
     min-height: 27.67px ;
 }
-/*nav .container .logo .logocontainer{
-    margin-right: 5px;
-    display: block;
-    float: left;
-    margin: auto;
-}*/
 
 nav .container .logo a img{
     height: 30px;
@@ -68,36 +62,6 @@ nav .container .logo a{
     float: left;
     margin-right: 5px;
 }
-
-/*
-nav .container .logo form input{
-    height: 27.67px;
-    outline: none;
-    padding: 2px 6px;
-    width: 225.66px;
-    border: 1px solid transparent;
-    margin-right: 0;
-    border-color: #d3d3d3;
-    min-height: 27.67px;
-}
-
-nav .container .logo form button{
-    background-color:#f8f8f8;
-    height: 27.67px;
-    border: 1px solid transparent;
-    border-color: #d3d3d3;
-    transition: all 300ms ease;
-}
-
-nav .container .logo form button:hover{
-    color: rgb(71,7,234);
-    cursor: pointer;
-}
-
-nav .container .logo form button img{
-    height: 27.67px;
-}
-*/
 
 nav .search-bar{
     width: 255.66px;
